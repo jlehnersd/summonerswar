@@ -1,42 +1,83 @@
-date,monster,acquired,build,id
-2020-05-18,Fire Hellhound,Unknown Scroll (tutorial),no,-3
-2020-05-18,Water Fairy,Mystical Scroll (tutorial),no,-2
-2020-05-18,Wind Vagabond,Mystical Scroll (tutorial),no,-1
-2020-05-18,Fire Horned Frog,Unknown Scroll,yes,1
-2020-05-18,Water Mimic,Unknown Scroll,yes,2
-2020-05-18,Wind Surprise Box,Unknown Scroll,yes,3
-2020-05-18,Wind Low Elemental,Unknown Scroll,yes,4
-2020-05-18,Fire Garuda,Unknown Scroll,yes,5
-2020-05-18,Wind Slime,Social Summon,yes,6
-2020-05-18,Water Mushroom,Social Summon,yes,7
-2020-05-18,Fire Slime,Social Summon,yes,8
-2020-05-18,Fire Sandman,Unknown Scroll,yes,9
-2020-05-18,Wind Elemental,Unknown Scroll,yes,10
-2020-05-18,Wind Mushroom,Unknown Scroll,yes,11
-2020-05-18,Water Monster Flower,Garen Forest 1 (Normal),yes,12
-2020-05-18,Wind Mushroom,Garen Forest 1 (Normal),no,13
-2020-05-18,Fire Low Elemental,Unknown Scroll,yes,14
-2020-05-18,Fire Mimic,Unknown Scroll,yes,15
-2020-05-18,Wind Yeti,Unknown Scroll,no,16
-2020-05-18,Water Bounty Hunter,Unknown Scroll,yes,17
-2020-05-18,Wind Fairy,Unknown Scroll,yes,18
-2020-05-18,Fire Horned Frog,Unknown Scroll,no,19
-2020-05-18,Fire Slime,Unknown Scroll,no,20
-2020-05-18,Fire Hellhound,Unknown Scroll,yes,21
-2020-05-18,Water Slime,Unknown Scroll,yes,22
-2020-05-18,Fire Mushroom,Unknown Scroll,yes,23
-2020-05-18,Wind Howl,Unknown Scroll,yes,24
-2020-05-18,Wind Forest Keeper,Unknown Scroll,yes,25
-2020-05-18,Fire Hellhound,Unknown Scroll,no,26
-2020-05-18,Fire Mushroom,Unknown Scroll,no,27
-2020-05-18,Wind Forest Keeper,Unknown Scroll,no,28
-2020-05-18,Water Mushroom,Unknown Scroll,no,29
-2020-05-18,Fire Mimic,Unknown Scroll,no,30
-2020-05-18,Wind Elemental,Unknown Scroll,no,31
-2020-05-18,Fire Slime,Magic Shop,no,32
-2020-05-18,Wind Mushroom,Garen Forest 2 (Normal),no,33
-2020-05-18,Wind Forest Keeper,Garen Forest 2 (Normal),no,34
-2020-05-18,Water Horned Frog,Unknown Scroll,yes,35
-2020-05-18,Fire Mimic,Unknown Scroll,no,36
-2020-05-18,Water Elemental,Unknown Scroll,yes,37
-2020-05-18,Fire Monster Flower,Unknown Scroll,yes,38
+date,monster,family,element,acquired,build,id
+2020-05-18,Hellhound,Hellhound,Fire,Unknown Scroll (tutorial),no,-3
+2020-05-18,Fairy,Fairy,Water,Mystical Scroll (tutorial),no,-2
+2020-05-18,Vagabond,Vagabond,Wind,Mystical Scroll (tutorial),no,-1
+2020-05-18,Horned Frog,Horned Frog,Fire,Unknown Scroll,yes,1
+2020-05-18,Mimic,Mimic,Water,Unknown Scroll,yes,2
+2020-05-18,Surprise Box,Surprise Box,Wind,Unknown Scroll,yes,3
+2020-05-18,Low Elemental,Low Elemental,Wind,Unknown Scroll,yes,4
+2020-05-18,Garuda,Garuda,Fire,Unknown Scroll,yes,5
+2020-05-18,Slime,Slime,Wind,Social Summon,yes,6
+2020-05-18,Mushroom,Mushroom,Water,Social Summon,yes,7
+2020-05-18,Slime,Slime,Fire,Social Summon,yes,8
+2020-05-18,Sandman,Sandman,Fire,Unknown Scroll,yes,9
+2020-05-18,Elemental,Elemental,Wind,Unknown Scroll,yes,10
+2020-05-18,Mushroom,Mushroom,Wind,Unknown Scroll,yes,11
+2020-05-18,Monster Flower,Monster Flower,Water,Garen Forest 1 (Normal),yes,12
+2020-05-18,Mushroom,Mushroom,Wind,Garen Forest 1 (Normal),no,13
+2020-05-18,Low Elemental,Low Elemental,Fire,Unknown Scroll,yes,14
+2020-05-18,Mimic,Mimic,Fire,Unknown Scroll,yes,15
+2020-05-18,Yeti,Yeti,Wind,Unknown Scroll,no,16
+2020-05-18,Bounty Hunter,Bounty Hunter,Water,Unknown Scroll,yes,17
+2020-05-18,Fairy,Fairy,Wind,Unknown Scroll,yes,18
+2020-05-18,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,19
+2020-05-18,Slime,Slime,Fire,Unknown Scroll,no,20
+2020-05-18,Hellhound,Hellhound,Fire,Unknown Scroll,yes,21
+2020-05-18,Slime,Slime,Water,Unknown Scroll,yes,22
+2020-05-18,Mushroom,Mushroom,Fire,Unknown Scroll,yes,23
+2020-05-18,Howl,Howl,Wind,Unknown Scroll,yes,24
+2020-05-18,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,yes,25
+2020-05-18,Hellhound,Hellhound,Fire,Unknown Scroll,no,26
+2020-05-18,Mushroom,Mushroom,Fire,Unknown Scroll,no,27
+2020-05-18,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,no,28
+2020-05-18,Mushroom,Mushroom,Water,Unknown Scroll,no,29
+2020-05-18,Mimic,Mimic,Fire,Unknown Scroll,no,30
+2020-05-18,Elemental,Elemental,Wind,Unknown Scroll,no,31
+2020-05-18,Slime,Slime,Fire,Magic Shop,no,32
+2020-05-18,Mushroom,Mushroom,Wind,Garen Forest 2 (Normal),no,33
+2020-05-18,Forest Keeper,Forest Keeper,Wind,Garen Forest 2 (Normal),no,34
+2020-05-18,Horned Frog,Horned Frog,Water,Unknown Scroll,yes,35
+2020-05-18,Mimic,Mimic,Fire,Unknown Scroll,no,36
+2020-05-18,Elemental,Elemental,Water,Unknown Scroll,yes,37
+2020-05-18,Monster Flower,Monster Flower,Fire,Unknown Scroll,yes,38
+2020-05-18,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,39
+2020-05-18,Slime,Slime,Wind,Unknown Scroll,no,40
+2020-05-18,Elemental,Elemental,Water,Unknown Scroll,no,41
+2020-05-18,Forest Keeper,Forest Keeper,Wind,Garen Forest 4 (Normal),no,42
+2020-05-18,Forest Keeper,Forest Keeper,Wind,Garen Forest 4 (Normal),no,43
+2020-05-18,Elven Ranger,Elven Ranger,Light,Garen Forest clear reward,yes,44
+2020-05-18,Surprise Box,Surprise Box,Water,Unknown Scroll,yes,45
+2020-05-18,Forest Keeper,Forest Keeper,Water,Unknown Scroll,yes,46
+2020-05-18,Low Elemental,Low Elemental,Fire,Unknown Scroll,no,47
+2020-05-18,Low Elemental,Low Elemental,Fire,Unknown Scroll,no,48
+2020-05-18,Hellhound,Hellhound,Wind,Unknown Scroll,yes,49
+2020-05-18,Horned Frog,Horned Frog,Water,Unknown Scroll,no,50
+2020-05-18,Slime,Slime,Fire,Unknown Scroll,no,51
+2020-05-18,Sandman,Sandman,Fire,Unknown Scroll,no,52
+2020-05-18,Mushroom,Mushroom,Fire,Unknown Scroll,no,53
+2020-05-18,Slime,Slime,Water,Unknown Scroll,no,54
+2020-05-18,Horned Frog,Horned Frog,Wind,Unknown Scroll,yes,55
+2020-05-18,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,56
+2020-05-18,Harpu,Harpu,Fire,Unknown Scroll,no,57
+2020-05-18,Low Elemental,Low Elemental,Water,Unknown Scroll,yes,58
+2020-05-18,Sandman,Sandman,Fire,Unknown Scroll,no,59
+2020-05-18,Mimic,Mimic,Water,Unknown Scroll,no,60
+2020-05-18,Garuda,Garuda,Light,Gready Arena clear reward,yes,61
+2020-05-18,Maned Boar,Maned Boar,Fire,Garen Forest 4 (Normal),yes,62
+2020-05-18,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,63
+2020-05-18,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,64
+2020-50-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,65
+2020-50-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,66
+2020-50-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,67
+2020-50-18,Rainbowmon,Raibowmon,Light,First max level 3-star monster reward (Water Slime),no,68
+2020-05-18,Slime,Slime,Fire,Mt. Siz 4 (Normal),no,69
+2020-50-18,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,70
+2020-50-18,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,71
+2020-05-18,Slime,Slime,Fire,Mt. Siz 4 (Normal),no,72
+2020-05-18,Viking,Viking,Water,Unknown Scroll,yes,73
+2020-05-18,Slime,Slime,Water,Unknown Scroll,no,74
+2020-05-18,Mushroom,Mushroom,Water,Unknown Scroll,no,75
+2020-05-18,Sandman,Sandman,Fire,Unknown Scroll,no,76
+2020-05-18,Lindermen,Garuda,Wind,Unknown Scroll,yes,77
+2020-05-18,Ghost,Ghost,Water,Mt. Siz 5 (Normal),yes,78
+2020-05-18,Magic Knight,Magic Knight,Water,Mt. Siz clear reward,yes,79
