@@ -3,7 +3,7 @@ date,monster,family,element,acquired,build,id
 2020-05-18,Fairy,Fairy,Water,Mystical Scroll (tutorial),no,-2
 2020-05-18,Vagabond,Vagabond,Wind,Mystical Scroll (tutorial),no,-1
 2020-05-18,Horned Frog,Horned Frog,Fire,Unknown Scroll,yes,1
-2020-05-18,Mimic,Mimic,Water,Unknown Scroll,yes,2
+2020-05-18,Mimick,Mimick,Water,Unknown Scroll,yes,2
 2020-05-18,Surprise Box,Surprise Box,Wind,Unknown Scroll,yes,3
 2020-05-18,Low Elemental,Low Elemental,Wind,Unknown Scroll,yes,4
 2020-05-18,Garuda,Garuda,Fire,Unknown Scroll,yes,5
@@ -16,7 +16,7 @@ date,monster,family,element,acquired,build,id
 2020-05-18,Monster Flower,Monster Flower,Water,Garen Forest 1 (Normal),yes,12
 2020-05-18,Mushroom,Mushroom,Wind,Garen Forest 1 (Normal),no,13
 2020-05-18,Low Elemental,Low Elemental,Fire,Unknown Scroll,yes,14
-2020-05-18,Mimic,Mimic,Fire,Unknown Scroll,yes,15
+2020-05-18,Mimick,Mimick,Fire,Unknown Scroll,yes,15
 2020-05-18,Yeti,Yeti,Wind,Unknown Scroll,no,16
 2020-05-18,Bounty Hunter,Bounty Hunter,Water,Unknown Scroll,yes,17
 2020-05-18,Fairy,Fairy,Wind,Unknown Scroll,yes,18
@@ -31,13 +31,13 @@ date,monster,family,element,acquired,build,id
 2020-05-18,Mushroom,Mushroom,Fire,Unknown Scroll,no,27
 2020-05-18,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,no,28
 2020-05-18,Mushroom,Mushroom,Water,Unknown Scroll,no,29
-2020-05-18,Mimic,Mimic,Fire,Unknown Scroll,no,30
+2020-05-18,Mimick,Mimick,Fire,Unknown Scroll,no,30
 2020-05-18,Elemental,Elemental,Wind,Unknown Scroll,no,31
 2020-05-18,Slime,Slime,Fire,Magic Shop,no,32
 2020-05-18,Mushroom,Mushroom,Wind,Garen Forest 2 (Normal),no,33
 2020-05-18,Forest Keeper,Forest Keeper,Wind,Garen Forest 2 (Normal),no,34
 2020-05-18,Horned Frog,Horned Frog,Water,Unknown Scroll,yes,35
-2020-05-18,Mimic,Mimic,Fire,Unknown Scroll,no,36
+2020-05-18,Mimick,Mimick,Fire,Unknown Scroll,no,36
 2020-05-18,Elemental,Elemental,Water,Unknown Scroll,yes,37
 2020-05-18,Monster Flower,Monster Flower,Fire,Unknown Scroll,yes,38
 2020-05-18,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,39
@@ -61,7 +61,7 @@ date,monster,family,element,acquired,build,id
 2020-05-18,Harpu,Harpu,Fire,Unknown Scroll,no,57
 2020-05-18,Low Elemental,Low Elemental,Water,Unknown Scroll,yes,58
 2020-05-18,Sandman,Sandman,Fire,Unknown Scroll,no,59
-2020-05-18,Mimic,Mimic,Water,Unknown Scroll,no,60
+2020-05-18,Mimick,Mimick,Water,Unknown Scroll,no,60
 2020-05-18,Garuda,Garuda,Light,Gready Arena clear reward,yes,61
 2020-05-18,Maned Boar,Maned Boar,Fire,Garen Forest 4 (Normal),yes,62
 2020-05-18,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,63
@@ -81,3 +81,29 @@ date,monster,family,element,acquired,build,id
 2020-05-18,Lindermen,Garuda,Wind,Unknown Scroll,yes,77
 2020-05-18,Ghost,Ghost,Water,Mt. Siz 5 (Normal),yes,78
 2020-05-18,Magic Knight,Magic Knight,Water,Mt. Siz clear reward,yes,79
+2020-05-18,Elven Ranger,Elven Ranger,Water,Mystical Scroll (from the Council),yes,80
+2020-05-18,Ghost,Ghost,Water,Mt. Siz 6 (Normal),no,81
+2020-05-18,Shannon,Pixie,Wind,Challenge Reward (Giant's Keep Master - Strategy Info),yes,82
+2020-05-19,Yeti,Yeti,Water,Mt. White Ragon 7 (Normal),yes,83
+2020-05-19,Mimick,Mimick,Wind,Unknown Scroll,yes,84
+2020-05-19,Ghost,Ghost,Fire,Unknown Scroll,yes,85
+2020-05-19,Harpu,Harpu,Water,Unknown Scroll,yes,86
+2020-05-19,Sandman,Sandman,Water,Unknown Scroll,yes,87
+2020-05-19,Sandman,Sandman,Water,Unknown Scroll,no,88
+2020-05-19,Horned Frog,Horned Frog,Wind,Unknown Scroll,no,89
+2020-05-19,Low Elemental,Low Elemental,Wind,Unknown Scroll,no,90
+2020-05-19,Slime,Slime,Fire,Magic Shop,no,91
+2020-05-19,Golem,Golem,Fire,Mt. Siz 6 (Normal),yes,92
+2020-05-19,Mimick,Mimick,Wind,Mt. Siz 6 (Normal),no,93
+2020-50-19,Rainbowmon,Raibowmon,Light,First max level 4-star monster reward (Water Slime),no,94
+2020-50-19,Rainbowmon,Raibowmon,Light,First max level 4-star monster reward (Water Slime),no,95
+2020-50-19,Rainbowmon,Raibowmon,Light,First 5-star evolution reward (Water Slime),no,96
+2020-05-19,Slime,Slime,Fire,Mt. Siz 6 (Normal),no,97
+2020-05-19,Ghost,Ghost,Water,Mt. Siz 6 (Normal),no,98
+2020-05-19,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,99
+2020-05-19,Ghost,Ghost,Water,Mt. Siz 2 (Normal),no,100
+2020-05-19,Blue Angelmon,Angelmon,Water,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,101
+2020-05-19,Red Angelmon,Angelmon,Fire,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,102
+2020-05-19,Yellow Angelmon,Angelmon,Wind,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,103
+2020-05-19,Mushroom,Mushroom,Wind,Garen Forest 2 (Normal),no,104
+2020-05-19,Maned Boar,Maned Boar,Fire,Garen Forest 2 (Normal),no,105
