@@ -66,13 +66,13 @@ date,monster,family,element,acquired,build,id
 2020-05-18,Maned Boar,Maned Boar,Fire,Garen Forest 4 (Normal),yes,62
 2020-05-18,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,63
 2020-05-18,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,64
-2020-50-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,65
-2020-50-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,66
-2020-50-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,67
-2020-50-18,Rainbowmon,Raibowmon,Light,First max level 3-star monster reward (Water Slime),no,68
+2020-05-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,65
+2020-05-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,66
+2020-05-18,Rainbowmon,Raibowmon,Light,Level Up Reward (level 10),no,67
+2020-05-18,Rainbowmon,Raibowmon,Light,First max level 3-star monster reward (Water Slime),no,68
 2020-05-18,Slime,Slime,Fire,Mt. Siz 4 (Normal),no,69
-2020-50-18,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,70
-2020-50-18,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,71
+2020-05-18,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,70
+2020-05-18,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,71
 2020-05-18,Slime,Slime,Fire,Mt. Siz 4 (Normal),no,72
 2020-05-18,Viking,Viking,Water,Unknown Scroll,yes,73
 2020-05-18,Slime,Slime,Water,Unknown Scroll,no,74
@@ -95,16 +95,16 @@ date,monster,family,element,acquired,build,id
 2020-05-19,Slime,Slime,Fire,Magic Shop,no,91
 2020-05-19,Golem,Golem,Fire,Mt. Siz 6 (Normal),yes,92
 2020-05-19,Mimick,Mimick,Wind,Mt. Siz 6 (Normal),no,93
-2020-50-19,Rainbowmon,Raibowmon,Light,First max level 4-star monster reward (Water Slime),no,94
-2020-50-19,Rainbowmon,Raibowmon,Light,First max level 4-star monster reward (Water Slime),no,95
-2020-50-19,Rainbowmon,Raibowmon,Light,First 5-star evolution reward (Water Slime),no,96
+2020-05-19,Rainbowmon,Raibowmon,Light,First max level 4-star monster reward (Water Slime),no,94
+2020-05-19,Rainbowmon,Raibowmon,Light,First max level 4-star monster reward (Water Slime),no,95
+2020-05-19,Rainbowmon,Raibowmon,Light,First 5-star evolution reward (Water Slime - Day 1),no,96
 2020-05-19,Slime,Slime,Fire,Mt. Siz 6 (Normal),no,97
 2020-05-19,Ghost,Ghost,Water,Mt. Siz 6 (Normal),no,98
 2020-05-19,Slime,Slime,Fire,Mt. Siz 2 (Normal),no,99
 2020-05-19,Ghost,Ghost,Water,Mt. Siz 2 (Normal),no,100
 2020-05-19,Blue Angelmon,Angelmon,Water,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,101
 2020-05-19,Red Angelmon,Angelmon,Fire,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,102
-2020-05-19,Yellow Angelmon,Angelmon,Wind,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,103
+2020-05-19,Gold Angelmon,Angelmon,Wind,Challenge Reward (Monster Training 101 - Power-up a Blade Rune 3 times),no,103
 2020-05-19,Mushroom,Mushroom,Wind,Garen Forest 2 (Normal),no,104
 2020-05-19,Maned Boar,Maned Boar,Fire,Garen Forest 2 (Normal),no,105
 2020-05-19,Bearman,Bearman,Wind,Mystical Scroll (from the Council),yes,106
@@ -118,9 +118,9 @@ date,monster,family,element,acquired,build,id
 2020-05-19,Maned Boar,Maned Boar,Wind,Telain Forest 5 (Normal),yes,114
 2020-05-19,Slime,Slime,Fire,Mt. Siz 5 (Hard),no,115
 2020-05-19,Golem,Golem,Fire,Mt. Siz 2 (Hard),no,116
-2020-50-19,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,117
-2020-50-19,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,118
-2020-50-19,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,119
+2020-05-19,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,117
+2020-05-19,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,118
+2020-05-19,Rainbowmon,Raibowmon,Light,Event Reward (6-Year Special Fusion Support x Skill Level-up Project),no,119
 2020-05-19,Ghost,Ghost,Water,Mt. Siz 2 (Hard),no,120
 2020-05-20,Slime,Slime,Water,Magic Shop,no,121
 2020-05-20,Slime,Slime,Fire,Magic Shop,no,122
@@ -177,8 +177,135 @@ date,monster,family,element,acquired,build,id
 2020-05-20,Minotauros,Minotauros,Water,Mystical Scroll (from the Council),yes,173
 2020-05-20,Rainbowmon,Rainbowmon,Light,Mt. Siz 2 (Hard),no,174
 2020-05-20,Ghost,Ghost,Water,Mt. Siz 2 (Hard),no,175
-2020-50-20,Rainbowmon,Raibowmon,Light,First max level 5-star monster reward (Water Slime),no,176
-2020-50-20,Rainbowmon,Raibowmon,Light,First max level 5-star monster reward (Water Slime),no,177
+2020-05-20,Rainbowmon,Raibowmon,Light,First max level 5-star monster reward (Water Slime),no,176
+2020-05-20,Rainbowmon,Raibowmon,Light,First max level 5-star monster reward (Water Slime),no,177
 2020-05-20,Mimick,Mimick,Wind,Mt. Siz 2 (Hard),no,178
 2020-05-20,Golem,Golem,Fire,Mt. Siz 2 (Hard),no,179
 2020-05-20,Rainbowmon,Rainbowmon,Light,Mt. Siz 2 (Hard),no,180
+2020-05-21,Rainbowmon,Rainbowmon,Light,New User Exclusive Gift (Day 4),no,181
+2020-05-21,Rainbowmon,Raibowmon,Light,First 5-star evolution reward (Water Slime - Day 3),no,182
+2020-05-21,Rainbowmon,Raibowmon,Light,Guild Shop,no,183
+2020-05-21,Blue Angelmon,Angelmon,Water,6-star Evolution Reward (first Water Monster - Day 1),no,184
+2020-05-21,Blue Angelmon,Angelmon,Water,6-star Evolution Reward (first Water Monster - Day 1),no,185
+2020-05-21,Blue Angelmon,Angelmon,Water,6-star Evolution Reward (first Water Monster - Day 1),no,186
+2020-05-21,Red Angelmon,Angelmon,Fire,Challenge Reward (Fuse Monsters - Evolve a Fire Monster to 3-star),no,187
+2020-05-21,Red Angelmon,Angelmon,Fire,Challenge Reward (Fuse Monsters - Evolve a Fire Monster to 3-star),no,188
+2020-05-21,Slime,Slime,Wind,Unknown Scroll,no,189
+2020-05-21,Garuda,Garuda,Fire,Unknown Scroll,no,190
+2020-05-21,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,191
+2020-05-21,Colleen,Harpu,Fire,Challenge Reward (Daily Dungeon Tips - Clear the 3rd floor of the Hall of Wind),yes,192
+2020-05-21,Monster Flower,Monster Flower,Water,Garen Forest 1 (Hard),no,193
+2020-05-21,Griffon,Griffon,Wind,Mystical Scroll (from the Council),no,194
+2020-05-21,Devilmon,Devilmon,Dark,Event Reward (6-Year Coin Shop Event),no,195
+2020-05-21,Blue Angelmon,Angelmon,Water,Challenge Reward (Fuse Monsters - Evolve a Water Monster to 3-star),no,196
+2020-05-21,Blue Angelmon,Angelmon,Water,Challenge Reward (Fuse Monsters - Evolve a Water Monster to 3-star),no,197
+2020-05-21,Mimick,Mimick,Wind,Mt. Siz 6 (Hard),no,198
+2020-05-21,Devilmon,Devilmon,Dark,Glory Shop,no,199
+2020-05-21,Rainbowmon,Raibowmon,Light,Level Up Reward (level 20),no,200
+2020-05-21,Rainbowmon,Raibowmon,Light,Level Up Reward (level 20),no,201
+2020-05-21,Mimick,Mimick,Wind,Mt. Siz 6 (Hard),no,202
+2020-05-21,Maned Boar,Maned Boar,Wind,Magic Shop,no,203
+2020-05-21,Mischievous Bat,Mischievous Bat,Fire,Magic Shop,yes,204
+2020-05-21,Low Elemental,Low Elemental,Wind,Magic Shop,no,205
+2020-05-21,Elemental,Elemental,Water,Magic Shop,no,206
+2020-05-21,Mischievous Bat,Mischievous Bat,Wind,Magic Shop,yes,207
+2020-05-21,Mimick,Mimick,Wind,Mt. Siz 6 (Hard),no,208
+2020-05-21,Slime,Slime,Fire,Mt. Siz 6 (Hard),no,209
+2020-05-21,Inugami,Inugami,Water,Garen Forest 6 (Hard),no,210
+2020-05-21,Forest Keeper,Forest Keeper,Wind,Garen Forest 6 (Hard),no,211
+2020-05-21,Rainbowmon,Rainbowmon,Light,Garen Forest 6 (Hard),no,212
+2020-05-21,Forest Keeper,Forest Keeper,Wind,Garen Forest 6 (Hard),no,213
+2020-05-21,Maned Boar,Maned Boar,Fire,Garen Forest 6 (Hard),no,214
+2020-05-21,Rainbowmon,Rainbowmon,Light,Garen Forest 6 (Hard),no,215
+2020-05-21,Inugami,Inugami,Water,Garen Forest 6 (Hard),no,216
+2020-05-21,Mushroom,Mushroom,Fire,Unknown Scroll,no,217
+2020-05-21,Low Elemental,Low Elemental,Wind,Unknown Scroll,no,218
+2020-05-21,Garuda,Garuda,Wind,Unknown Scroll,no,219
+2020-05-21,Mimick,Mimick,Wind,Unknown Scroll,no,220
+2020-05-21,Mischievous Bat,Mischievous Bat,Wind,Unknown Scroll,no,221
+2020-05-21,Maned Boar,Maned Boar,Fire,Unknown Scroll,no,222
+2020-05-21,Skull Soldier,Skull Soldier,Fire,Unknown Scroll,yes,223
+2020-05-21,Imp,Imp,Water,Unknown Scroll,yes,224
+2020-05-21,Sandman,Sandman,Water,Unknown Scroll,no,225
+2020-05-21,Horned Frog,Horned Frog,Water,Unknown Scroll,no,226
+2020-05-21,Forest Keeper,Forest Keeper,Water,Unknown Scroll,no,227
+2020-05-21,Mushroom,Mushroom,Fire,Unknown Scroll,no,228
+2020-05-21,Mushroom,Mushroom,Wind,Unknown Scroll,no,229
+2020-05-21,Forest Keeper,Forest Keeper,Fire,Unknown Scroll,yes,230
+2020-05-21,Low Elemental,Low Elemental,Wind,Unknown Scroll,no,231
+2020-05-21,Imp,Imp,Wind,Unknown Scroll,yes,232
+2020-05-21,Horned Frog,Horned Frog,Water,Unknown Scroll,no,233
+2020-05-21,Ghost,Ghost,Fire,Unknown Scroll,no,234
+2020-05-21,Sandman,Sandman,Wind,Unknown Scroll,no,235
+2020-05-21,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,236
+2020-05-21,Imp,Imp,Wind,Unknown Scroll,no,237
+2020-05-21,Sandman,Sandman,Wind,Unknown Scroll,no,238
+2020-05-21,Mimick,Mimick,Fire,Unknown Scroll,no,239
+2020-05-21,Inferno,Inferno,Water,Unknown Scroll,yes,240
+2020-05-21,Gold Angelmon,Angelmon,Wind,Challenge Reward (Fuse Monsters - Evolve a Wind Monster to 3-star),no,241
+2020-05-21,Gold Angelmon,Angelmon,Wind,Challenge Reward (Fuse Monsters - Evolve a Wind Monster to 3-star),no,242
+2020-05-21,Salamander,Salamander,Wind,Tamor Desert 7 (Normal),no,243
+2020-05-21,Low Elemental,Low Elemental,Fire,Vrofagus Ruins 3 (Normal),no,244
+2020-05-21,Surprise Box,Surprise Box,Wind,Magic Shop,no,245
+2020-05-21,Ghost,Ghost,Water,Mt. Siz 5 (Hard),no,246
+2020-05-21,Ghost,Ghost,Water,Mt. Siz 5 (Hard),no,247
+2020-05-21,Skull Soldier,Skull Soldier,Fire,Magic Shop,no,248
+2020-05-21,Skull Soldier,Skull Soldier,Wind,Magic Shop,yes,249
+2020-05-21,Slime,Slime,Fire,Mt. Siz 5 (Hard),no,250
+2020-05-22,Rainbowmon,Rainbowmon,Light,6-star Evolution Reward (first Water Monster - Day 2),no,251
+2020-05-22,Serpent,Serpent,Water,Mystical Scroll (from the Council),yes,252
+2020-05-22,Mischievous Bat,Mischievous Bat,Fire,Unknown Scroll,no,253
+2020-05-22,Ghost,Ghost,Water,Unknown Scroll,no,254
+2020-05-22,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,no,255
+2020-05-22,Skull Soldier,Skull Soldier,Water,Magic Shop,yes,256
+2020-05-22,Rainbowmon,Rainbowmon,Light,Mt. Siz 5 (Hard),no,257
+2020-05-22,Slime,Slime,Fire,Mt. Siz 5 (Hard),no,258
+2020-05-22,Lizardman,Lizardman,Wind,Mystical Scroll (from the Council),yes,259
+2020-05-22,Devilmon,Devilmon,Dark,Event Reward (6-Year Coin Shop Event),no,260
+2020-05-22,Mimick,Mimick,Wind,Mt. Siz 4 (Hard),no,261
+2020-05-22,Ghost,Ghost,Water,Mt. Siz 4 (Hard),no,262
+2020-05-22,Slime,Slime,Fire,Mt. Siz 4 (Hard),no,263
+2020-05-22,Mimick,Mimick,Wind,Mt. Siz 4 (Hard),no,264
+2020-05-22,Slime,Slime,Fire,Mt. Siz 4 (Hard),no,265
+2020-05-22,Mimick,Mimick,Wind,Mt. Siz 4 (Hard),no,266
+2020-05-22,Monster Flower,Monster Flower,Fire,Magic Shop,no,267
+2020-05-22,Golem,Golem,Fire,Mt. Siz 3 (Hard),no,268
+2020-05-22,Golem,Golem,Fire,Mt. Siz 3 (Hard),no,269
+2020-05-22,Slime,Slime,Fire,Mt. Siz 1 (Hard),no,270
+2020-05-22,Ghost,Ghost,Water,Mt. Siz 1 (Hard),no,271
+2020-05-22,Forest Keeper,Forest Keeper,Fire,Unknown Scroll,no,272
+2020-05-22,Pixie,Pixie,Wind,Unknown Scroll,no,273
+2020-05-22,Mimick,Mimick,Fire,Unknown Scroll,no,274
+2020-05-22,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,275
+2020-05-22,Mimick,Mimick,Water,Unknown Scroll,no,276
+2020-05-22,Mimick,Mimick,Fire,Unknown Scroll,no,277
+2020-05-22,Howl,Howl,Water,Unknown Scroll,yes,278
+2020-05-22,Low Elemental,Low Elemental,Water,Unknown Scroll,no,279
+2020-05-22,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,no,280
+2020-05-22,Ghost,Ghost,Wind,Unknown Scroll,no,281
+2020-05-22,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,no,282
+2020-05-22,Mischievous Bat,Mischievous Bat,Fire,Unknown Scroll,no,283
+2020-05-22,Low Elemental,Low Elemental,Wind,Unknown Scroll,no,284
+2020-05-22,Elemental,Elemental,Wind,Unknown Scroll,no,285
+2020-05-22,Ghost,Ghost,Fire,Unknown Scroll,no,286
+2020-05-22,Slime,Slime,Wind,Unknown Scroll,no,287
+2020-05-22,Mushroom,Mushroom,Water,Unknown Scroll,no,288
+2020-05-22,Garuda,Garuda,Fire,Unknown Scroll,no,289
+2020-05-22,Forest Keeper,Forest Keeper,Wind,Unknown Scroll,no,290
+2020-05-22,Slime,Slime,Water,Unknown Scroll,no,291
+2020-05-22,Warbear,Warbear,Fire,Unknown Scroll,yes,292
+2020-05-22,Mimick,Mimick,Water,Unknown Scroll,no,293
+2020-05-22,Slime,Slime,Fire,Unknown Scroll,no,294
+2020-05-22,Slime,Slime,Water,Unknown Scroll,no,295
+2020-05-22,Battle Scorpion,Battle Scorpion,Wind,Unknown Scroll,yes,296
+2020-05-22,Mimick,Mimick,Water,Unknown Scroll,no,297
+2020-05-22,Garuda,Garuda,Wind,Unknown Scroll,no,298
+2020-05-22,Maned Boar,Maned Boar,Fire,Unknown Scroll,no,299
+2020-05-22,Horned Frog,Horned Frog,Fire,Unknown Scroll,no,300
+2020-05-22,Skull Soldier,Skull Soldier,Water,Magic Shop,no,301
+2020-05-22,Slime,Slime,Fire,Mt. Siz 1 (Hard),no,302
+2020-05-22,Golem,Golem,Fire,Mt. Siz 1 (Hard),no,303
+2020-05-22,Ghost,Ghost,Water,Mt. Siz 1 (Hard),no,304
+2020-05-22,Battle Scorpion,Battle Scorpion,Fire,Magic Shop,yes,305
+2020-05-22,Mimick,Mimick,Wind,Mt. Siz 1 (Hard),no,306
+2020-05-22,Golem,Golem,Fire,Mt. Siz 1 (Hard),no,307
